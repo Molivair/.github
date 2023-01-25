@@ -1,5 +1,5 @@
 # 🖌️ Welcome to our gallery!
-![Cover](../assets/images/cover.png)
+![Cover](https://raw.githubusercontent.com/Molivair/.github/main/assets/images/cover.png)
 
 Here we share our open source art.  
 As Molivair our goal is to make the world more colorful with the use of artifical intelligence art.
