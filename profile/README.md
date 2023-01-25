@@ -1,4 +1,4 @@
-# 🖌️ Our open source gallery!
+# 🖌️ Our Open Source Gallery!
 ![Cover](https://raw.githubusercontent.com/Molivair/.github/main/assets/images/cover.png)
 
 Here we share our open source art.  
