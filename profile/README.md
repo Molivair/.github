@@ -9,7 +9,7 @@ This organization can be treated as a community.
 In fact you can participate directly to the making of collections and even receive eventually a fixed percentage of the profits made with it!  
 
 ## 🤝 Contribute
-To contribute just check our guidelines that you can find in every repository and generate the subject listed in the ```collection.md``` file.  
+To contribute just check our guidelines that you can find in every ```CONTRIBUTING.md``` file, inside the repositories, and generate the subject listed in the ```collection.md``` file.  
 
 ## 💚 Support
 If you want to support our work you can do it buying our art.  
