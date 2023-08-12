@@ -1,21 +1,39 @@
-# 🖌️ Molivair
+# Molivair
 Organization's root repository.
 
-## 📦 Install  
-Follow the steps below to make use of Canvas.
+## Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Resources](#resources)
+- [Contributing](#contributing)
+- [Support](#support)
+- [License](#license)
 
-1. Clone this repository:  
+## Installation
+Follow the steps below to make use of Molivair.
+
+Clone this repository:
 ```bash
-git clone https://github.com/Molivair/.github.git
+git clone https://github.com/molivair/.github.git
 ```
 
-## 🤝 Contribute
-Contributions and suggestions about how to improve this project are welcome!  
-Make sure to check out our [CONTRIBUTING.md](https://github.com/Molivair/.github/blob/main/CONTRIBUTING.md) file first.
+## Usage
+404
 
-## 💚 Support
-If you want to support our work you can do it buying our art.
-- [OpenSea](https://opensea.io/Molivair)
+## Resources
+404
 
-## 💳 License
-This repository is licensed under [GPL-3.0 License](https://github.com/Molivair/.github/blob/main/LICENSE).
+## Contributing
+Contributions and suggestions about how to improve this project are welcome!
+Please follow [our contribution guidelines](https://github.com/molivair/.github/blob/main/CONTRIBUTING.md).
+
+## Support
+If you want to support our work you can do it by following us, leaving a star, sharing our projects or also buying art at the links below.  
+Choose what you find more suitable for you:  
+
+<a href="https://opensea.io/Molivair" target="blank">
+  <img src="https://raw.githubusercontent.com/molivair/assets/main/images/opensea.svg" alt="OpenSea" width="30px" />
+</a>
+
+## License  
+This repository is licensed under [GPL-3.0 License](https://github.com/molivair/.github/blob/main/LICENSE).
